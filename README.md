@@ -1,62 +1,78 @@
-![Web Developer Roadmap](http://i.imgur.com/GyvcunJ.png)
 
-> Roadmap to becoming a web developer in 2017
+![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+> Roadmap to becoming a web developer in 2020
 
-If you think that these can be improved in anyway, please do suggest.
+[![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
+[![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
+[![](https://img.shields.io/badge/-Translations-0a0a0a.svg?style=flat&colorA=0a0a0a)](./translations)
+[![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1)
 
+Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
 
 ***
 
-<p align="center"><b> Want to learn something new?</b><br>Visit <a href="http://hugobots.com">Hugobots</a> where I teach people</p>
+<p align="center">
+		<sup>Special Announcement:</sup>
+		<br>
+		<a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
+			<img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
+		</a>
+		<br>
+		<sub><b>We now have a YouTube Channel</b></sub>
+		<br>
+		<sub>I plan on covering the roadmaps and put more content there<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">Subscribe to the channel</a>.</sub>
+</p>
 
 ***
 
-## 🚀 Introduction
+<h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
 
-![](https://i.imgur.com/Rt1oLlM.png)
+> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
 
-## 🎨 Frontend Roadmap
+<h3 align="center"><strong>Note to Beginners</strong></h3>
 
-![](https://i.imgur.com/2advM9W.png)
+> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2020 release of the Backend and DevOps roadmaps.
 
-## 👽 Backend Roadmap
+***
 
-For the backend, personally I would prefer Node JS and PHP-7 for the full time plus I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
+If you think that these can be improved in any way, please do suggest.
 
-![](https://i.imgur.com/bAmwJMr.png)
+## Introduction
 
-## 👷 DevOps Roadmap
+![Web Developer Roadmap Introduction](./img/intro.png)
 
-![](https://i.imgur.com/eP0V4jY.png)
+## Frontend Roadmap
 
-<br>
+[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
+
+![Frontend Roadmap](./img/frontend.png?year-2020-2)
+
+## Back-end Roadmap 
+
+[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
+
+![Back-end Roadmap](./img/backend.png?year-2020-2)
+
+## DevOps Roadmap
+
+[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
+
+![DevOps Roadmap](./img/devops.png)
 
 ## 🚦 Wrap Up
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
 
-## ☑ TODO
+## 🙌 Contribution
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
-
-## 👬 Contribution
-
-The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/project-files` directory. To modify any of the roadmaps, open Balsamiq, click **project > import > Mokup JSON**, it will open the roadmap for you, update it, upload and update the images in readme and create a PR.
+> Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
 
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or on twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
-
-## Sponsored By
-
-[FancyGrid - JavaScript grid library with charts integration and server communication.](http://fancygrid.com)
-
+- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+ 
 ## License
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Have a look at the [license file](./LICENSE) for details
